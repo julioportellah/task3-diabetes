@@ -1,0 +1,8 @@
+jupyter
+pandas
+numpy
+sklearn
+matplotlib
+seaborn
+shap
+imblearn
